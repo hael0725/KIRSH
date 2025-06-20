@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/KIRSH/static/css/main.cd7c21d0.css",
-    "main.js": "/KIRSH/static/js/main.91568a3e.js",
+    "main.js": "/KIRSH/static/js/main.d98a824f.js",
     "static/js/453.2ea1da6b.chunk.js": "/KIRSH/static/js/453.2ea1da6b.chunk.js",
     "static/media/background.jpg": "/KIRSH/static/media/background.2faad40698cd52d6fde0.jpg",
     "index.html": "/KIRSH/index.html",
     "main.cd7c21d0.css.map": "/KIRSH/static/css/main.cd7c21d0.css.map",
-    "main.91568a3e.js.map": "/KIRSH/static/js/main.91568a3e.js.map",
+    "main.d98a824f.js.map": "/KIRSH/static/js/main.d98a824f.js.map",
     "453.2ea1da6b.chunk.js.map": "/KIRSH/static/js/453.2ea1da6b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.cd7c21d0.css",
-    "static/js/main.91568a3e.js"
+    "static/js/main.d98a824f.js"
   ]
 }
